@@ -12,6 +12,9 @@
 - **Bootstrap**: 프론트엔드 스타일링
 - **gradle**: 빌드 도구
 
+### 정리
+
+https://kibeom2000.tistory.com/category/%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C/%EA%B2%8C%EC%8B%9C%ED%8C%90%28Mybatis%29
 
 
 
