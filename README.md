@@ -12,6 +12,6 @@
 - **Bootstrap**: 프론트엔드 스타일링
 - **gradle**: 빌드 도구
 
-#### 참고
+#### ※ 참고
 
 1. https://generalcoder.tistory.com/11
