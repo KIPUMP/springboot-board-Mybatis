@@ -4,6 +4,6 @@
 <configuration>
     <!-- DTO 또는 Entity 패키지 내 모든 클래스에 대해 typeAlias 자동 설정 -->
     <typeAliases>
-        <package name="com.zerock.springboot_board.controller"/>
+        <typeAlias type="com.zerock.springboot_board.controller.IndexController" alias="IndexController"></typeAlias>
     </typeAliases>
 </configuration>
