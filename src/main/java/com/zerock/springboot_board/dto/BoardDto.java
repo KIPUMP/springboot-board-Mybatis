@@ -1,15 +1,18 @@
 package com.zerock.springboot_board.dto;
 
-import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
 import lombok.ToString;
 
-@Data
+@Getter
+@Setter
+@ToString
 public class BoardDto {
     private long id;
     private String boardWriter;
     private String boardPass;
     private String boardTitle;
-    private String boardContent;
+    private String boardContents;
     private int boardHits;
     private String createAt;
 }
