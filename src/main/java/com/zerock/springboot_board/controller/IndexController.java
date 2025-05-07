@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class IndexController {
     @GetMapping("/")
     public String index(){
-        log.info("index ¸Þ¼­µå call");
+        log.info("index controller");
         return "index";
     }
 }
